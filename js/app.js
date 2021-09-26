@@ -14,7 +14,7 @@ function gettranslationURL(text){
 // alert when an error on server is coming
 function errorHandler(error){
     console.log("error Occured" + error);
-    alert("Some error occured please try after some time. ")
+    alert("Some error occured in server! so please try again later. ")
 }
 
 // function calling and result show
